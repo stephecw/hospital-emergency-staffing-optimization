@@ -1,5 +1,5 @@
 # hospital-emergency-staffing-optimization
-This project explores how to optimize staffing and patient flow in hospital emergency departments as part of the URGE research program (Inria × AP-HP). With overcrowded emergency rooms and limited medical staff, improving resource allocation is essential.
+This research project explores how to optimize staffing and patient flow in hospital emergency departments as part of the URGE research program (Inria × AP-HP). With overcrowded emergency rooms and limited medical staff, improving resource allocation is essential.
 
 We developed:\
 	•	Mathematical models of patient flow using Timed Petri Nets to represent consultations, staff roles, and system dynamics.\
