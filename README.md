@@ -18,7 +18,7 @@ Overcrowded emergency rooms and limited medical staff require **efficient resour
 ## 📎 Reports & Resources
 
 - 📘 **Full Research Report:**  
-  ➝ [`Rapport_EILLES_CHAN_WAY.pdf`](./Rapport_EILLES_CHAN_WAY.pdf)
+  ➝ [`Rapport_EILLES_CHAN_WAY-PERCOT.pdf`](./Rapport_EILLES_CHAN_WAY.pdf)
 
 - 🎤 **Presentation Slides :**  
   ➝ [`Soutenance.pptx`](./Soutenance.pptx)
